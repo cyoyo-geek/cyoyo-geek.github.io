@@ -11,7 +11,7 @@
 ### 创建自定义Processors的步骤：  
 
 1. 打开Intellj IDEA 创建新工程，使用archetype进行创建。  
-![以原型创建工程](../img/创建自定义处理器1.jpg)
+![以原型创建工程](/img/2018/09/07/创建自定义处理器1.jpg)
 2. 填入groupId，artifactId，version等属性。     
 ![以原型创建工程](../img/创建自定义处理器2.jpg)
 3. 添加属性artifactBaseName及值（任意）。
