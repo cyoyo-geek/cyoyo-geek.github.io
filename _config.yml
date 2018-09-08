@@ -57,11 +57,11 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-disqus_username: hexiaobing5880
+# disqus_username: hexiaobing5880
 
 # Gitalk
 gitalk:
-  enable: false    #是否开启Gitalk评论
+  enable: true    #是否开启Gitalk评论
   clientID: 6159854c3023382ac2a3                            #生成的clientID
   clientSecret: 899e7fca57652ffa9315d821660bd85cac0070d3    #生成的clientSecret
   repo: hexiaobing5880.github.io    #仓库名称
