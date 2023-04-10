@@ -3,12 +3,12 @@
     "title": "LJ Blog",
     "author": "LJ <823036978@qq.com>",
     "version": "1.7.0",
-    "homepage": "https://hexiaobing5880.github.io",
+    "homepage": "https://gpt-robot.github.io",
     "repository": {
         "type": "git",
-        "url": "https://github.com/hexiaobing5880/hexiaobing5880.github.io"
+        "url": "https://github.com/gpt-robot/gpt-robot.github.io"
     },
-    "bugs": "https://github.com/hexiaobing5880/hexiaobing5880.github.io/issues",
+    "bugs": "https://github.com/gpt-robot/gpt-robot.github.io/issues",
     "devDependencies": {
         "grunt": "~0.4.5",
         "grunt-contrib-less": "~0.11.4",

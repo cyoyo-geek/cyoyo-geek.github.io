@@ -81,7 +81,7 @@ tags:                               #标签
 ![以原型创建工程](/img/2018/09/07/创建自定义处理器服务6-1.jpg)
 ![以原型创建工程](/img/2018/09/07/创建自定义处理器服务6-2.jpg)
 ![以原型创建工程](/img/2018/09/07/创建自定义处理器服务6-3.jpg)
-[源码](https://github.com/hexiaobing5880/sampleprocessor)
+[源码](https://github.com/gpt-robot/sampleprocessor)
 
 
 ###  谢谢各位支持： ![支付码](/img/2018/09/07/orc_me.jpeg)

@@ -5,9 +5,9 @@ header-img: img/post-bg-desk.jpg
 email: 823036978@qq.com
 description: "Every failure is leading towards success."
 keyword: "LJ, LJ Blog, 凉介的博客, hexiaobing, 贺小兵, NIFI, Hadoop, Spark"
-url: "http://hexiaobing5880.github.io"          # your host, for absolute URL
+url: "http://gpt-robot.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/hexiaobing5880/hexiaobing5880.github.io.git" # you code repository
+github_repo: "https://github.com/gpt-robot/gpt-robot.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -18,9 +18,9 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 
 # SNS settings
 RSS: false
-weibo_username:     凉介ss
+weibo_username:     清风ss0
 zhihu_username:     cregulu
-github_username:    hexiaobing5880
+github_username:    gpt-robot
 # facebook_username:  baiying.qiu.7
 # jianshu_username:   e71990ada2fd
 #twitter_username:   qiubaiying
@@ -57,16 +57,16 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-# disqus_username: hexiaobing5880
+# disqus_username: gpt-robot
 
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 6159854c3023382ac2a3                            #生成的clientID
   clientSecret: 899e7fca57652ffa9315d821660bd85cac0070d3    #生成的clientSecret
-  repo: hexiaobing5880.github.io    #仓库名称
-  owner: hexiaobing5880    #github用户名
-  admin: hexiaobing5880
+  repo: gpt-robot.github.io    #仓库名称
+  owner: gpt-robot    #github用户名
+  admin: gpt-robot
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
